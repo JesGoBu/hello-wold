@@ -1,2 +1,2 @@
 # hello-wold
-Hello, Chad here. 
+Hello, Chad here. UW student in computer science
